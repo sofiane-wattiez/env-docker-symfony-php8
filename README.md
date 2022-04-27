@@ -19,7 +19,7 @@
   
   Connect into the PHP container
   
-  ```docker exec -it bf6be9debe38 bash```
+  ```docker exec -it 669f3ffc9f54 bash```
   
   ## Create your Symfony application and launch the web serv
   ```
