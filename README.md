@@ -61,5 +61,6 @@ Out of the container, this docker-compose is created for a Linux OS , use wsl2 i
 * Docker
 * Docker-compose
 
-Author
-Sofiane Wattiez
+## Author
+
+* **Sofiane Wattiez**
