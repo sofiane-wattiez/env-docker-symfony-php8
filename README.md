@@ -8,7 +8,6 @@
 
 * docker hub : ```https://hub.docker.com/repository/docker/swattiez/symfony6-php8```
 
-* branch git : ```You have conf for php8.1.0 on 2nd branch```
 
 ### Run the docker-compose
 
