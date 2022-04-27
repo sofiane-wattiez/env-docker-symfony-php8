@@ -28,7 +28,7 @@
   symfony serve -d
   ```
   
-### Create an account (identical to your local session)
+### Create an account
   ```
   adduser username
   chown username:username -R .
