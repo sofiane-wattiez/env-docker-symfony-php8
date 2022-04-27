@@ -2,8 +2,6 @@
 
 **Warning :** I learn this tech actually, this is my first conf docker for dev environment.
 
-## `Run Local
-
 ###  Clone the repository :
 
 * git hub : ```https://github.com/sofiane-wattiez/env-docker-symfony-php8.git```
