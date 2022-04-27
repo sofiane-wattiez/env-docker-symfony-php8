@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-    php8-sf6:
+    symfony6-php8:
         container_name: symfony6-php8
         build: symfony6-php8
         ports:
