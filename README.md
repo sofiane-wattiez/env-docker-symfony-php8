@@ -4,7 +4,7 @@
 
 ###  Clone the repository :
 
-* git hub : ```https://github.com/sofiane-wattiez/env-docker-symfony-php8.git```
+* git hub : ```https://github.com/sofiane-wattiez/env-docker-symfony6-php8.git```
 
 * docker hub : ```https://hub.docker.com/repository/docker/swattiez/symfony6-php8```
 
